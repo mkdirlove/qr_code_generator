@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/mkdirlove/TxtExtract"><img src="https://github.com/mkdirlove/TxtExtract/blob/main/logo.png" alt="TxtExtract"></a>
+  <a href="https://github.com/mkdirlove/qr_code_generator"><img src="https://github.com/mkdirlove/qr_code_generator/blob/main/logo.png" alt="qr_code_generator"></a>
   <br>
   A simple QR Code generator written in Rust.
   <br>
@@ -22,7 +22,9 @@ cargo run -- -h
 
 #### Usage
 ```
-  Please provide a value for the -t or --text flag.
+$ cargo run -- -h
+ 
+Please provide a value for the -t or --text flag.
 ```
 #### Sample Usage #1
 
